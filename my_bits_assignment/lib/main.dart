@@ -13,7 +13,7 @@ void main() async {
     keyParseServerUrl,
     clientKey: keyClientKey,
     autoSendSessionId: true,
-    liveQueryUrl: 'mybitsassignment.b4a.io',
+    liveQueryUrl: 'QuickTask.b4a.io',
     debug: true,
   );
   runApp(const MaterialApp(
